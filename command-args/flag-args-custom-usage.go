@@ -1,5 +1,7 @@
 package main
 
+// 通过修改底层flag.CommandLine的形式定制命令参数容器
+
 import (
 	"flag"
 	"fmt"

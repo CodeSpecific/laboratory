@@ -1,5 +1,7 @@
 package main
 
+// 通过自定义flag.FlagSet的形式定制命令参数容器
+
 import (
 	"flag"
 	"fmt"
