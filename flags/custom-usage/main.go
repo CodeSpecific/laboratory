@@ -6,8 +6,6 @@ import (
 	"os"
 )
 
-// flag的基本用法
-
 var name string
 
 // init 初始化命令行参数的形式一般适用于变量在外部或者是全局
